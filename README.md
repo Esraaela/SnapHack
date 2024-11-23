@@ -23,7 +23,8 @@
    
    
    #إخلاء المسؤولية القانونية
- #  Images 
+ #  Images
+
  
 ![image](https://github.com/user-attachments/assets/2ae42eed-dd56-49bc-9ab0-33eda6e87b97)
 #sudo bash Snaphack.sh
@@ -37,7 +38,8 @@
 
 #sudo apt-get install git
 
-git clone https://github.com/skar44/SnapHack
+git clone :SnapHack
+‏sudo bash Snaphack.sh
 
 
 #sudo apt-get update
